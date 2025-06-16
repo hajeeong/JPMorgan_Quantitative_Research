@@ -1,5 +1,9 @@
 # TASK 3 : Credit Risk Analysis
 
+## My Work:
+
+[See my work](https://github.com/hajeeong/JPMorgan_Quantitative_Research/blob/main/Task3/analysis2.ipynb)
+
 ## Background : 
 You have now moved to a new team assisting the retail banking arm, which has been experiencing higher-than-expected default rates on personal loans. Loans are an important source of revenue for banks, but they are also associated with the risk that borrowers may default on their loans. A default occurs when a borrower stops making the required payments on a debt.
 

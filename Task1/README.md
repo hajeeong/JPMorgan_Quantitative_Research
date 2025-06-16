@@ -1,5 +1,9 @@
 # TASK 1 : Investigate and Analyze Price Data
 
+## My Work:
+
+[See my work](https://github.com/hajeeong/JPMorgan_Quantitative_Research/blob/main/Task1/analysis.ipynb)
+
 ## Background:
 You are a quantitative researcher working with a commodity trading desk. Alex, a VP on the desk, wants to start trading natural gas storage contracts. However, the available market data must be of higher quality to enable the instrument to be priced accurately. They have sent you an email asking you to help extrapolate the data available from external feeds to provide more granularity, considering seasonal trends in the price as it relates to months in the year. To price the contract, we will need historical data and an estimate of the future gas price at any date.
 

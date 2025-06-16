@@ -1,5 +1,9 @@
 # TASK 2 : Price a commodity storage contract
 
+## My Work:
+
+[See my work](https://github.com/hajeeong/JPMorgan_Quantitative_Research/blob/main/Task2/analysis.ipynb)
+
 ## Background:
 Great work! The desk now has the price data they need. The final ingredient before they can begin trading with the client is the pricing model. Alex tells you the client wants to start trading as soon as possible. They believe the winter will be colder than expected, so they want to buy gas now to store and sell in winter in order to take advantage of the resulting increase in gas prices. They ask you to write a script that they can use to price the contract. Once the desk are happy, you will work with engineering, risk, and model validation to incorporate this model into production code.
 
